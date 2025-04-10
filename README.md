@@ -3,6 +3,7 @@
 <p align="center">
   🚀 Passionate Hardware Innovator | ⚡ Embedded Systems Enthusiast | 🌐 IoT & AI Explorer
 </p>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raunak</h1>
 
 ---
 

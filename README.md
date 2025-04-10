@@ -13,11 +13,10 @@
 - 🌱 Currently diving deeper into **cloud computing** (AWS, Azure, GCP) and real-time system optimization.
 - 🧠 Love blending **AI + IoT + sustainability** to create **scalable, impactful tech solutions**.
 - 📫 How to reach me: <br>
-   [Connect on LinkdIn](mailto: https://www.linkedin.com/in/raunak-das-r16/)
     [![LinkdIn](https://camo.githubusercontent.com/c4672166e25415cd8392e9b9a34feb8be4bed9060b8a4679a4688238b90a0291/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67)](https://www.linkedin.com/in/raunak-das-r16/)
 
 <br>
-<img alt="My Github Stats" src="https://camo.githubusercontent.com/e4397c967fca70046d039e40542e214b7086ac5c7d8e39f0e6f142693053eed0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61647265656a6130362673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d73796e74687761766526686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api?username=RaunakR16&amp;show_icons=true&amp;count_private=true&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0D1117" style="max-width: 100%;">>
+<img alt="My Github Stats" src="https://camo.githubusercontent.com/e4397c967fca70046d039e40542e214b7086ac5c7d8e39f0e6f142693053eed0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d61647265656a6130362673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d73796e74687761766526686964655f626f726465723d747275652662675f636f6c6f723d304431313137" data-canonical-src="https://github-readme-stats.vercel.app/api?username=RaunakR16&amp;show_icons=true&amp;count_private=true&amp;theme=synthwave&amp;hide_border=true&amp;bg_color=0D1117%22%20style=%22max-width:%20100%;">>
 
 ---
 

@@ -17,12 +17,11 @@
 
 ### 🛠️ Tech Stack
 
-```yaml
-Languages: C/C++, Python, TinyML, HTML/CSS, JavaScript, React 
-Boards: Arduino, ESP32, Raspberry Pi, Particle Electron
-Cloud: Consentium, AWS, Google Cloud 
-Tools: VS Code, Arduino IDE, Thony, Git, MATLAB, Fution 360 and Altium
-```
+- Languages: C/C++, Python, TinyML, HTML/CSS, JavaScript, React
+- Boards: Arduino, ESP32, Raspberry Pi, Particle Electron
+- Cloud: Consentium, AWS, Google Cloud
+- Tools: VS Code, Arduino IDE, Thony, Git, MATLAB, Fution 360 and Altium
+
 ---
 ### 📫 How to reach me: <br>
 

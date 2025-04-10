@@ -16,7 +16,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunak-das-r16/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunak-das-r16/)
 ---
 
 ### 🛠️ Tech Stack

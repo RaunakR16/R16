@@ -19,15 +19,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raunak.r16@gmail.com)
 ---
 
-### 🧠 Projects I’m Proud Of
-
-- 🔬 **GlucoVision** – A portable, non-invasive device for real-time blood glucose monitoring using paper-based MEMS sensors + cloud.
-- 🧠 **Parkinson’s TremorTech** – A semi-automatic wearable using vibrotactile therapy to reduce tremors.
-- 🚗 **Hybrid Drive Retrofit System** – Upgrading FWD cars with BLDC-powered rear wheels to create a smart hybrid.
-- 📊 **FinoStep** – A multilingual AI-powered financial literacy platform with chatbot “Megan” for rural communities.
-
----
-
 ### 🛠️ Tech Stack
 
 ```yaml

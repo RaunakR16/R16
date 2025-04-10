@@ -12,7 +12,8 @@
 - 🛠️ Skilled in **Arduino, ESP32, Raspberry Pi**, and **embedded system programming**.
 - 🌱 Currently diving deeper into **cloud computing** (AWS, Azure, GCP) and real-time system optimization.
 - 🧠 Love blending **AI + IoT + sustainability** to create **scalable, impactful tech solutions**.
-- 📫 How to reach me: [raunakdas.2020@gmail.com](mailto:raunakdas.2020@gmail.com)
+- 📫 How to reach me:
+  -- [raunakdas.2020@gmail.com](mailto:raunakdas.2020@gmail.com)
 
 ---
 
